@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/sylar/bin/test"
+			"path" : "/home/sylar/bin/test_config"
 		}
 	],
 	"backtrace" : 1,
@@ -28,7 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 24,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
@@ -40,13 +40,13 @@
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 26,
+				"line" : 30,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 25,
+				"line" : 29,
 				"parent" : 0
 			},
 			{
@@ -69,7 +69,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : " -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g"
+					"fragment" : "  -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g"
 				}
 			],
 			"includes" : 
@@ -97,13 +97,13 @@
 			"id" : "sylar::@6890427a1f51a3e7e1df"
 		}
 	],
-	"id" : "test::@6890427a1f51a3e7e1df",
+	"id" : "test_config::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g",
+				"fragment" : "-O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g",
 				"role" : "flags"
 			},
 			{
@@ -131,8 +131,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "test",
-	"nameOnDisk" : "test",
+	"name" : "test_config",
+	"nameOnDisk" : "test_config",
 	"paths" : 
 	{
 		"build" : ".",
@@ -153,7 +153,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "tests/test.cc",
+			"path" : "tests/test_config.cc",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -6,5 +6,5 @@ CXX_DEFINES = -Dsylar_EXPORTS
 
 CXX_INCLUDES = -I/home/sylar/. -I/apps/sylar/include
 
-CXX_FLAGS =  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC
+CXX_FLAGS =   -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC
 

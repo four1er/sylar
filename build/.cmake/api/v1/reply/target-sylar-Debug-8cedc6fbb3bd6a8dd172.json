@@ -55,7 +55,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : " -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC"
+					"fragment" : "  -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC"
 				}
 			],
 			"defines" : 
