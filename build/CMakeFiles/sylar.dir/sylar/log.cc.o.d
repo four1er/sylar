@@ -214,7 +214,7 @@ CMakeFiles/sylar.dir/sylar/log.cc.o: /home/sylar/sylar/log.cc \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/aarch64-linux-gnu/bits/syscall.h \
   /home/sylar/sylar/singleton.h \
-  /usr/bin/../lib/gcc/aarch64-linux-gnu/9/../../../../include/c++/9/iostream \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/9/../../../../include/c++/9/functional \
   /usr/bin/../lib/gcc/aarch64-linux-gnu/9/../../../../include/c++/9/bits/std_function.h \
+  /usr/bin/../lib/gcc/aarch64-linux-gnu/9/../../../../include/c++/9/iostream \
   /usr/include/string.h /usr/include/strings.h
