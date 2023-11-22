@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/sylar/build",
+  "command": "/usr/bin/clang++ -Dsylar_EXPORTS -I/home/sylar/. -I/apps/sylar/include  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/sylar/log.cc.o -c /home/sylar/sylar/log.cc",
+  "file": "/home/sylar/sylar/log.cc"
+},
+{
+  "directory": "/home/sylar/build",
+  "command": "/usr/bin/clang++ -Dsylar_EXPORTS -I/home/sylar/. -I/apps/sylar/include  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/sylar/util.cc.o -c /home/sylar/sylar/util.cc",
+  "file": "/home/sylar/sylar/util.cc"
+},
+{
+  "directory": "/home/sylar/build",
+  "command": "/usr/bin/clang++ -Dsylar_EXPORTS -I/home/sylar/. -I/apps/sylar/include  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/sylar/config.cc.o -c /home/sylar/sylar/config.cc",
+  "file": "/home/sylar/sylar/config.cc"
+},
+{
+  "directory": "/home/sylar/build",
+  "command": "/usr/bin/clang++  -I/home/sylar/. -I/apps/sylar/include  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -o CMakeFiles/test.dir/tests/test.cc.o -c /home/sylar/tests/test.cc",
+  "file": "/home/sylar/tests/test.cc"
+},
+{
+  "directory": "/home/sylar/build",
+  "command": "/usr/bin/clang++  -I/home/sylar/. -I/apps/sylar/include  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -o CMakeFiles/test_config.dir/tests/test_config.cc.o -c /home/sylar/tests/test_config.cc",
+  "file": "/home/sylar/tests/test_config.cc"
+}
+]
