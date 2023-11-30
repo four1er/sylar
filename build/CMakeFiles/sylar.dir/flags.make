@@ -6,5 +6,11 @@ CXX_DEFINES = -Dsylar_EXPORTS
 
 CXX_INCLUDES = -I/home/sylar/. -I/apps/sylar/include
 
-CXX_FLAGS =   -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC
+CXX_FLAGS =  -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -g -fPIC
+
+# Custom defines: CMakeFiles/sylar.dir/sylar/log.cc.o_DEFINES = __FILE__="sylar/log.cc"
+
+# Custom defines: CMakeFiles/sylar.dir/sylar/util.cc.o_DEFINES = __FILE__="sylar/util.cc"
+
+# Custom defines: CMakeFiles/sylar.dir/sylar/config.cc.o_DEFINES = __FILE__="sylar/config.cc"
 

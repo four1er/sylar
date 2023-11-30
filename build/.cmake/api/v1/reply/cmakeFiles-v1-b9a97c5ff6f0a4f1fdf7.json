@@ -140,6 +140,9 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/usr/local/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "cmake/utils.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
